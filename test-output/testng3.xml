@@ -1,0 +1,12 @@
+<suite name="My Testsuite6">
+	<test name="abcd">
+		<parameter name="paramn 1" value="100"></parameter>
+		<parameter name="paramn 2" value="600"></parameter>
+		<classes>
+			<class name="TestNG.demo9">
+			</class>
+			<class name="TestNG.BasicAssertion">
+			</class>
+		</classes>
+	</test>
+</suite>

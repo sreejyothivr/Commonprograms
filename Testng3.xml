@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="My Testsuite6">
+	<test name="abcdu">
+		<parameter name="Browser" value="chrome"></parameter>
+		<parameter name="paramn 2" value="600"></parameter>
+		<classes>
+			<class name="TestNG.demo9">
+			</class>
+			<class name="TestNG.BasicAssertion">
+			</class>
+		</classes>
+	</test>
+</suite>
